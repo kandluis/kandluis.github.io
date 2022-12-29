@@ -11,9 +11,9 @@ title                    : "Luis Perez / Software Engineer"
 title_separator          : "-"
 name                     : &name "Luis Perez"
 description              : &description "I'm a Software Engineer/AI Researcher in the Bay Area, currently at Waymo (previously at DeepMind, Google, and Meta AI)"
-url                      : https://luisperez.ml # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kandluis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kandluis/luisperez.ml"
+repository               : "kandluis/kandluis.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 120
